@@ -135,3 +135,7 @@ C:\Users\Nikhru\Desktop\book\bookApp\book\obj\Debug\net8.0\refint\book.dll
 C:\Users\Nikhru\Desktop\book\bookApp\book\obj\Debug\net8.0\book.pdb
 C:\Users\Nikhru\Desktop\book\bookApp\book\obj\Debug\net8.0\book.genruntimeconfig.cache
 C:\Users\Nikhru\Desktop\book\bookApp\book\obj\Debug\net8.0\ref\book.dll
+C:\Users\Nikhru\Desktop\book\bookApp\book\bin\Debug\net8.0\book.staticwebassets.endpoints.json
+C:\Users\Nikhru\Desktop\book\bookApp\book\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Nikhru\Desktop\book\bookApp\book\obj\Debug\net8.0\staticwebassets\msbuild.book.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Nikhru\Desktop\book\bookApp\book\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
